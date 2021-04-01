@@ -1,5 +1,5 @@
 numbers = [1, 2, 3, 4, 5]
 
 numbers.each do |n|
-  puts n
+  puts n * 5
 end
